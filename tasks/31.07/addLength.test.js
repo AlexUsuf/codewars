@@ -1,3 +1,3 @@
 const addLength = require('./addLength')
 
-test('', () => expect(addLength(['bin'])).toEqual(['bin 3']));
+test('', () => expect(addLength('bin')).toEqual(['bin 3']));

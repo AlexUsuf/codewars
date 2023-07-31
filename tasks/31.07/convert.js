@@ -3,4 +3,4 @@ function converter (mpg) {
 }
 
 
-module.exports = convert;
+module.exports = converter;
