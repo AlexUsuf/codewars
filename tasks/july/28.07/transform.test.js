@@ -1,4 +1,4 @@
-const { describe } = require('mocha');
+// const { describe } = require('mocha');
 const minimumNumber = require('./transformToPrime');
 
 
