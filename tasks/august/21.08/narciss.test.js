@@ -13,4 +13,7 @@ describe('test cases for function narciss', () => {
     test('minus digit is value', () =>{
         expect(narcissistic(-153)).toBe(false);
     })
+    test('positive test case', () =>{
+        expect(narcissistic(2)).toBeTruthy();
+    })
 })
