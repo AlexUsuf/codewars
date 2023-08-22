@@ -17,3 +17,4 @@ describe('test cases for function narciss', () => {
         expect(narcissistic(2)).toBeTruthy();
     })
 })
+
