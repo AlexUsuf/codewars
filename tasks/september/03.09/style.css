@@ -1,0 +1,9 @@
+body {
+    height: 20000px;
+}
+
+.container__images {
+    position: fixed;
+    padding-top: 400px;
+    padding-left: 1200px;
+}
