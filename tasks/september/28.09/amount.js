@@ -1,0 +1,3 @@
+function amount (sum1) {
+    
+}

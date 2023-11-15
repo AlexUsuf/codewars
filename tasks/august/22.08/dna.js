@@ -1,6 +1,6 @@
 function DNAStrand(dna) {
     let res = '';
-    if(!dna) {
+    if(dna === undefined || dna === null) {
         return res;
     }
     const obj = {
