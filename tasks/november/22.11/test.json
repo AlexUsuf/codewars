@@ -1,0 +1,362 @@
+{
+    "specs": {
+        "project": [
+            {
+                "pk": "akadem",
+                "name": "Академическая",
+                "category": 13,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 11,
+                "min_total_price_field": 4190501,
+                "max_area_field": 28.6,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/baa6b47036bbdbd20c0f8b053e3e83405129cae0.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/421c727e2d1085a059b24f83dd908e478fe09748.png",
+                "shields": []
+            },
+            {
+                "pk": "bauman",
+                "name": "Бауманская",
+                "category": 13,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 25,
+                "min_total_price_field": 2741379,
+                "max_area_field": 22.0,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/2080daae0c2ba2091241e7659c57db118f958421.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/063a3c299fe23b80673d1e00e523de657016ff17.jpg",
+                "shields": []
+            },
+            {
+                "pk": "southport",
+                "name": "Южнопортовая",
+                "category": 14,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 36,
+                "min_total_price_field": 2518890,
+                "max_area_field": 23.2,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/ecb5375db4dc3632634c60269455c6ee3e428eac.webp",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/1a758fe199b7cd2ce0e94e83ef1626b4a1e11633.jpg",
+                "shields": []
+            },
+            {
+                "pk": "michur",
+                "name": "Мичуринский, этап 1,2",
+                "category": 13,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 51,
+                "min_total_price_field": 2838301,
+                "max_area_field": 21.7,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_unmIu0P-min.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/2bdeb6b4a438e3a01bcda5ec776e53ad1a786053.jpeg",
+                "shields": []
+            },
+            {
+                "pk": "michkomf",
+                "name": "Мичуринский, этап 3",
+                "category": 14,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 62,
+                "min_total_price_field": 2689813,
+                "max_area_field": 17.5,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/1b437815a7f7d8f2415790126301d16501c17d5d.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/ffc0c30ee1da55fa3b4a1ba971355559148e1303.jpg",
+                "shields": []
+            },
+            {
+                "pk": "nagat",
+                "name": "Нагатинская",
+                "category": 13,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 18,
+                "min_total_price_field": 3748546,
+                "max_area_field": 18.4,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/cam11.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/aa0ac8c3890bb4c042cad8b548d69f3976f44ad4.jpg",
+                "shields": []
+            },
+            {
+                "pk": "selig",
+                "name": "Селигерская",
+                "category": 14,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 58,
+                "min_total_price_field": 2395197,
+                "max_area_field": 17.9,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/15bde4bb48ee6b51695417c648c45e2234d0f0f3.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/5d17d1eaee4606b1cca3fea18b2ac7fb836db3b0.jpg",
+                "shields": []
+            },
+            {
+                "pk": "prichal",
+                "name": "Причальный",
+                "category": 13,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 79,
+                "min_total_price_field": 3109091,
+                "max_area_field": 21.3,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/prichal_korpus_View070004_copy.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/30695fea531fb840b28bbbddc5af3ca9017540e5.jpg",
+                "shields": []
+            },
+            {
+                "pk": "don",
+                "name": "Донской",
+                "category": 13,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 2,
+                "min_total_price_field": 3296400,
+                "max_area_field": 28.5,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/Donskoy_normalnii-2.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/6c365ffe7c061f55f0e5b9d37c57b7c04a174020.jpg",
+                "shields": []
+            },
+            {
+                "pk": "pav",
+                "name": "Павелецкая",
+                "category": 13,
+                "has_prefix_level": true,
+                "is_premium": false,
+                "count": 5,
+                "min_total_price_field": 2518000,
+                "max_area_field": 27.3,
+                "genplan": "https://storage.yandexcloud.net/level-media/project/genplan/%D0%B3%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD_%D0%BD%D0%BE%D0%B2%D1%8B%D0%B8_U9pxWNX.jpg",
+                "banner_image": "https://storage.yandexcloud.net/level-media/project/card_image/9c16ac32abc43cd33dfe3aea627c95cae167e113.jpg",
+                "shields": []
+            }
+        ],
+        "building": [
+            {
+                "label": "akadem",
+                "pk": 45,
+                "values": [
+                    {
+                        "pk": "akadem_Parking",
+                        "name": "Корпус Паркинг",
+                        "building_title": "Паркинг",
+                        "count": 11,
+                        "min_total_price_field": 4190501,
+                        "max_area_field": 28.6,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "bauman",
+                "pk": 40,
+                "values": [
+                    {
+                        "pk": "bauman_",
+                        "name": "Корпус ",
+                        "building_title": "Паркинг",
+                        "count": 25,
+                        "min_total_price_field": 2741379,
+                        "max_area_field": 22.0,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "southport",
+                "pk": 36,
+                "values": [
+                    {
+                        "pk": "southport_Parking",
+                        "name": "Корпус Паркинг",
+                        "building_title": "Этап 1.1",
+                        "count": 25,
+                        "min_total_price_field": 2518890,
+                        "max_area_field": 23.2,
+                        "hover": "",
+                        "shields": []
+                    },
+                    {
+                        "pk": "southport_Parking1.2",
+                        "name": "Корпус Паркинг 1.2",
+                        "building_title": "Этап 1.2",
+                        "count": 11,
+                        "min_total_price_field": 2741527,
+                        "max_area_field": 14.8,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "michur",
+                "pk": 37,
+                "values": [
+                    {
+                        "pk": "michur_Parking2och",
+                        "name": "Корпус Паркинг 2 оч",
+                        "building_title": "Этап 2",
+                        "count": 38,
+                        "min_total_price_field": 2901755,
+                        "max_area_field": 21.7,
+                        "hover": "1489.5,152.1 1381.1,171.3 1353.2,195.2 1349,197 1349.6,844.4 1352.2,846.7 1352.7,857 1335.6,855.6 1335.6,391.6 1325,379.5 1314.3,371.5 1301.2,362.9 1290.4,358.1 1283.5,356 1261.1,361.2 1242.8,369.1 1226.5,375.7 1215.1,382.9 1208.5,388.8 1205.4,392.6 1205.4,474.9 1190.3,475.8 1179.2,477.2 1162.5,480.7 1150.6,484.2 1141.7,487.5 1135.3,490.4 1131.8,487.5 1128.1,486.9 1122.4,490 1120.7,492.9 1120.7,504.6 1120.7,863.1 1135.1,870.6 1232.1,870.6 1376.9,872.2 1486,869.6 \r\n1484.4,868.3 1484.4,855.1 1489.5,851.8",
+                        "shields": []
+                    },
+                    {
+                        "pk": "michur_Parking1och",
+                        "name": "Корпус Паркинг 1 оч",
+                        "building_title": "Этап 1",
+                        "count": 13,
+                        "min_total_price_field": 2838301,
+                        "max_area_field": 19.6,
+                        "hover": "1009.4,305.8 906.8,305.8 906.8,842.1 863.1,842.1 829.1,839.2 827.2,807.6 827.2,796.9 827.2,771.9 827.2,765.9 828,740.9 828.8,731.3 829.1,679.8 828.9,654.9 827.2,622.9 827.2,605.1 827.2,484.3 827.2,475.5 828.8,458.9 \r\n828.8,431.7 815.4,395.5 775.4,397.6 753.4,399.7 733.8,403 715,408 713.5,442.7 713.5,496.9 713.5,513.9 713.9,535.3 715,556.9 \r\n715.6,593 716,619.1 715.8,655.6 715.6,698.9 715.2,751.2 715.5,794.3 715,844.2 630.9,844.2 630.9,598.2 616.2,592.6 607.4,594.4 605.7,591.6 602.6,591.6 602.6,594.4 594.3,593.9 592.3,591.9 589.8,592.1 589.8,594.7 579.5,593.9 579.5,592.4 575.2,591.9 575.2,593.6 568.4,594.2 566.7,592.1 563.7,592.1 563.7,594.2 556.4,594 555.2,591.4 551.3,591.6 551.3,593.1 544.2,593.2 544.2,592.1 539.5,592 539.5,593.6 532.5,593.6 532.5,592.1 528.4,592.1 528.4,594 519.4,594 519.4,591.8 515.4,592 515.4,593.6 509.6,594 507.8,591.8 504.5,591.8 504.5,593.4 496.5,593.6 496.5,591.8 492.1,591.8 492.1,593.6 487.2,593.4 484.4,591.6 480.6,591.6 480.6,593.6 472.8,593.8 472.8,592 467.7,591.8 467.7,593.6 461.8,593.4 457.4,592.3 453.6,592.3 453.6,593.6 444,593.6 445.8,857.9 446,862.6 497.4,868.2 569.6,870.7 604.6,870.7 608.9,869.1 742.5,869.3 837.5,869.5 1009.4,867.5",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "michkomf",
+                "pk": 47,
+                "values": [
+                    {
+                        "pk": "michkomf_Parking3och",
+                        "name": "Корпус Паркинг 3 оч",
+                        "building_title": "Этап 3",
+                        "count": 62,
+                        "min_total_price_field": 2689813,
+                        "max_area_field": 17.5,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "nagat",
+                "pk": 38,
+                "values": [
+                    {
+                        "pk": "nagat_Parking",
+                        "name": "Корпус Паркинг",
+                        "building_title": "Очередь 1",
+                        "count": 18,
+                        "min_total_price_field": 3748546,
+                        "max_area_field": 18.4,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "selig",
+                "pk": 42,
+                "values": [
+                    {
+                        "pk": "selig_Parking",
+                        "name": "Корпус Паркинг",
+                        "building_title": "Паркинг",
+                        "count": 58,
+                        "min_total_price_field": 2395197,
+                        "max_area_field": 17.9,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "prichal",
+                "pk": 30,
+                "values": [
+                    {
+                        "pk": "prichal_Parking",
+                        "name": "Корпус Паркинг",
+                        "building_title": "Паркинг",
+                        "count": 79,
+                        "min_total_price_field": 3109091,
+                        "max_area_field": 21.3,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "don",
+                "pk": 28,
+                "values": [
+                    {
+                        "pk": "don_Parking",
+                        "name": "Корпус Паркинг",
+                        "building_title": "Паркинг",
+                        "count": 2,
+                        "min_total_price_field": 3296400,
+                        "max_area_field": 28.5,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            },
+            {
+                "label": "pav",
+                "pk": 16,
+                "values": [
+                    {
+                        "pk": "pav_Parking",
+                        "name": "Корпус Паркинг",
+                        "building_title": "",
+                        "count": 5,
+                        "min_total_price_field": 2518000,
+                        "max_area_field": 27.3,
+                        "hover": "",
+                        "shields": []
+                    }
+                ]
+            }
+        ],
+        "floor": [
+            {
+                "pk": -1,
+                "name": -1
+            },
+            {
+                "pk": -2,
+                "name": -2
+            },
+            {
+                "pk": -3,
+                "name": -3
+            }
+        ],
+        "has_discount": [
+            true,
+            false
+        ],
+        "project_category": [
+            {
+                "pk": 14,
+                "name": "Комфорт"
+            },
+            {
+                "pk": 13,
+                "name": "Бизнес"
+            }
+        ],
+        "price": {
+            "min": 2395197,
+            "max": 8534066
+        },
+        "area": {
+            "min": 13.3,
+            "max": 28.6
+        },
+        "dependent": [
+            true,
+            false
+        ],
+        "with_pantry": [
+            true,
+            false
+        ]
+    }
+}
