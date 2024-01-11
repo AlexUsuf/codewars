@@ -3,7 +3,7 @@ function seaSick(x) {
     let count = 0;
     for (let i = 0; i < x.length - 1; i++) {
         if (x[i] !== x[i + 1]) {
-            count += 1;
+            count += 1
         }
     }
     if (count > twentyPercent) {
